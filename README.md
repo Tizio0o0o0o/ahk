@@ -9,5 +9,5 @@ Here I've published my small collection of AutoHotkey scripts. Some scripts are 
 
 Here is a list of them
 
-- <a href="https://github.com/Tizio0o0o0o/ahk/blob/main/Mouse_to_shift_and_ctrl.ahk">Mouse_to_shift_and_ctrl</a> - useful if you use Fusion360 or SolidWorks
-- <a href="https://github.com/Tizio0o0o0o/ahk/blob/main/Mouse_remove_letters.ahk">Mouse_remove_letters</a> - sometimes downloaded files are named with too many characters, always in the same place, this is a quick solution to cancel them
+- <a href="https://github.com/Tizio0o0o0o/ahk/blob/main/Mouse_to_shift_and_ctrl.ahk" target="_blank">Mouse_to_shift_and_ctrl</a> - useful if you use Fusion360 or SolidWorks
+- <a href="https://github.com/Tizio0o0o0o/ahk/blob/main/Mouse_remove_letters.ahk" target="_blank">Mouse_remove_letters</a> - sometimes downloaded files are named with too many characters, always in the same place, this is a quick solution to cancel them
