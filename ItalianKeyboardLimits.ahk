@@ -10,5 +10,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :C*?:O'::{U+00D2} ; O followed by ' => Ò
 :C*?:U'::{U+00D9} ; U followed by ' => Ù
 
-<^>!'::`` ; AltGr + ' => `
+<^>!'::Send `` ; AltGr + ' => `
 <^>!-::~ ; AltGr + - => ~
